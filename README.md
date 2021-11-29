@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Miłosz</h1>
-<h3 align="center">A junior frontend developer from Poland</h3>
+<h3 align="center">A frontend developer from Poland</h3>
 
 - 🔭 I’m currently working on **FlotaApp**
 
