@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **FlotaApp**
 
-- 🌱 I’m currently learning **TypeScript, React, Redux, Firebase**
+- 🌱 I’m currently learning **JavaScript, TypeScript, React, Redux, Firebase**
 
 - 👯 I’m looking to collaborate on **Any React project**
 
