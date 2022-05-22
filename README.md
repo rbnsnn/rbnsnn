@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Miłosz</h1>
 <h3 align="center">A frontend developer from Poland</h3>
 
-- 🔭 I’m currently working on **FlotaApp**
-
-- 🌱 I’m currently learning **JavaScript, TypeScript, React, Redux, Firebase**
+- 🌱 I’m currently learning **JavaScript, TypeScript, React, Redux**
 
 - 👯 I’m looking to collaborate on **Any React project**
 
